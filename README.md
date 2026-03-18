@@ -27,6 +27,4 @@ pip install flask pandas
 Run:
 python app.py
 
-View: Open http://127.0.0.1:5000
-
 Focusing on sustainable engineering and smart city infrastructure.
